@@ -7,7 +7,7 @@
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [Infrastructure Deployment on AWS using Terraform as IAC](CloudLabs/01-Infrastructure-Deployment-using-Terraform-as-IAC/README.md)
+- [ ] ☁️ 1 > [Design a 3-Tier AWS VPC using Terraform as IAC](CloudLabs/01-Infrastructure-Deployment-using-Terraform-as-IAC/README.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
